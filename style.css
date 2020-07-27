@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+body{
+    flex-wrap: wrap;
+display:flex;
+justify-content: center;
+align-items:center;
+font-family:poppins;
+font-weight: 500;
+font-size:80px;
+color: rgb(255, 255, 255);
+background-color: rgb(236, 15, 107);
+
+}
+.Digital {
+    border-radius:100px;
+    height: 100px;
+    width: 300px;
+   
+
+    
+}
+.hour{
+    height: 100%;
+    padding: 5%;
+    text-align: center;
+}
+.min{
+    height: 100%;
+    text-align: center;
+    padding: 5%;
+}
+.sec{
+    height: 100%;
+    text-align: center;
+    padding: 5%;
+}
